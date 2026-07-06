@@ -1,0 +1,817 @@
+==================================================
+DIABETES
+==================================================
+Diabetes is a chronic disease that occurs when the pancreas is no longer able to make insulin, or when the body cannot make good use of the insulin it produces. Insulin is a hormone made by the pancreas that acts like a key to let glucose from the food we eat pass from the blood stream into the cells in the body to produce energy.
+
+There are two main types of diabetes:
+- Type 1 Diabetes: The body produces little or no insulin. It is usually diagnosed in children and young adults. People with Type 1 diabetes must take insulin every day.
+- Type 2 Diabetes: The body does not use insulin properly. It is the most common type, accounting for 90–95% of all diabetes cases. It is often linked to obesity, inactivity, and poor diet.
+
+Symptoms of Diabetes:
+- Frequent urination (polyuria)
+- Excessive thirst (polydipsia)
+- Unexplained weight loss
+- Extreme hunger
+- Blurred vision
+- Slow-healing sores or frequent infections
+- Fatigue and lack of energy
+- Tingling or numbness in hands and feet
+- Dry skin
+- More infections than usual
+
+Diagnosis of Diabetes:
+- Fasting Blood Sugar Test: A fasting blood sugar level less than 100 mg/dL (5.6 mmol/L) is normal. 100 to 125 mg/dL indicates prediabetes. 126 mg/dL or higher suggests diabetes.
+- Hemoglobin A1C Test (HbA1c): Below 5.7% is normal; 5.7–6.4% is prediabetes; 6.5% or higher indicates diabetes.
+- Oral Glucose Tolerance Test (OGTT): A normal result is a blood glucose level below 140 mg/dL two hours after drinking the glucose solution.
+
+Treatment of Diabetes:
+- Blood sugar monitoring
+- Insulin therapy (especially for Type 1)
+- Oral medications such as Metformin for Type 2
+- Healthy diet: low sugar, high fiber, complex carbohydrates
+- Regular physical activity (at least 150 minutes per week)
+- Maintaining a healthy weight
+- Regular medical checkups
+
+Complications of Diabetes:
+- Heart disease and stroke
+- Kidney disease (diabetic nephropathy)
+- Nerve damage (diabetic neuropathy)
+- Eye damage (diabetic retinopathy) leading to blindness
+- Foot damage and possible amputation
+- Skin conditions and infections
+- Hearing impairment
+- Alzheimer's disease (Type 2 diabetes may increase risk)
+
+Prevention of Type 2 Diabetes:
+- Maintain a healthy weight
+- Exercise regularly
+- Eat a healthy diet rich in fruits, vegetables, and whole grains
+- Limit alcohol consumption
+- Quit smoking
+- Regular health screenings, especially if family history exists
+
+==================================================
+HYPERTENSION (HIGH BLOOD PRESSURE)
+==================================================
+Hypertension, or high blood pressure, is a condition in which the force of the blood against the artery walls is too high. Blood pressure is measured in millimeters of mercury (mmHg) and recorded as two numbers: systolic (pressure when the heart beats) over diastolic (pressure when the heart is at rest).
+
+Blood Pressure Categories:
+- Normal: Less than 120/80 mmHg
+- Elevated: Systolic 120–129 and diastolic less than 80
+- High Blood Pressure Stage 1: Systolic 130–139 or diastolic 80–89
+- High Blood Pressure Stage 2: Systolic 140 or higher or diastolic 90 or higher
+- Hypertensive Crisis: Systolic over 180 and/or diastolic over 120 (requires immediate medical attention)
+
+Symptoms of Hypertension:
+- Hypertension is often called the "silent killer" because it rarely causes symptoms.
+- Severe cases may cause: headaches, shortness of breath, nosebleeds, flushing, blood in urine, dizziness, chest pain, visual changes
+
+Risk Factors:
+- Age (risk increases with age)
+- Family history
+- Obesity or being overweight
+- Lack of physical activity
+- High sodium diet
+- Too little potassium in diet
+- Tobacco use and smoking
+- Drinking too much alcohol
+- Stress
+- Chronic conditions like kidney disease, diabetes, sleep apnea
+
+Treatment of Hypertension:
+- Lifestyle changes: DASH diet (low salt, rich in fruits and vegetables), regular exercise, weight loss, limit alcohol, quit smoking, reduce stress
+- Medications: ACE inhibitors (lisinopril), ARBs (losartan), calcium channel blockers (amlodipine), diuretics (hydrochlorothiazide), beta-blockers (metoprolol)
+- Regular monitoring of blood pressure at home
+
+Complications of Untreated Hypertension:
+- Heart attack and heart failure
+- Stroke
+- Kidney disease or failure
+- Vision loss
+- Sexual dysfunction
+- Peripheral arterial disease
+- Aneurysm
+
+==================================================
+ASTHMA
+==================================================
+Asthma is a condition in which your airways narrow and swell and may produce extra mucus. This can make breathing difficult and trigger coughing, a whistling sound (wheezing) when you breathe out, and shortness of breath.
+
+Types of Asthma:
+- Allergic asthma (triggered by allergens like pollen, dust, pet dander)
+- Non-allergic asthma (triggered by stress, exercise, illness, extreme weather)
+- Exercise-induced bronchoconstriction
+- Occupational asthma (triggered by workplace irritants)
+- Childhood asthma
+
+Symptoms of Asthma:
+- Shortness of breath
+- Chest tightness or pain
+- Wheezing when exhaling (common in children)
+- Trouble sleeping caused by shortness of breath, coughing or wheezing
+- Coughing or wheezing attacks worsened by a respiratory virus
+- Worsening symptoms at night
+
+Common Asthma Triggers:
+- Airborne allergens: pollen, dust mites, mold spores, pet dander
+- Respiratory infections (cold, flu)
+- Physical activity (exercise-induced asthma)
+- Cold air
+- Air pollutants and irritants (smoke, chemical fumes)
+- Certain medications (aspirin, beta-blockers, NSAIDs)
+- Strong emotions and stress
+- Sulfites and preservatives in some foods and drinks
+
+Diagnosis:
+- Spirometry (measures lung function)
+- Peak flow measurement
+- Methacholine challenge test
+- Imaging tests (chest X-ray, CT scan)
+- Allergy testing
+
+Treatment of Asthma:
+- Quick-relief (rescue) medications: Short-acting beta agonists (albuterol/salbutamol) inhaler
+- Long-term control medications: Inhaled corticosteroids (fluticasone, budesonide), long-acting beta agonists (salmeterol), leukotriene modifiers (montelukast)
+- Biologics for severe asthma (omalizumab, mepolizumab)
+- Avoiding triggers
+- Asthma action plan — a written plan developed with your doctor
+- Regular checkups
+
+Emergency Signs (Severe Asthma Attack):
+- Severe shortness of breath, can't speak more than short phrases
+- Lips or fingernails turning blue (cyanosis)
+- Rapid worsening of symptoms
+- No improvement after using rescue inhaler
+- CALL EMERGENCY SERVICES IMMEDIATELY
+
+==================================================
+INFLUENZA (FLU)
+==================================================
+Influenza (flu) is a contagious respiratory illness caused by influenza viruses. It can cause mild to severe illness, and at times can lead to death.
+
+Differences Between Flu and Common Cold:
+- Flu symptoms are usually more severe than cold symptoms
+- Flu appears suddenly; cold develops gradually
+- Fever is common with flu but rare with cold
+- Body aches are common with flu
+
+Symptoms of the Flu:
+- Fever or feeling feverish/chills (not everyone has fever)
+- Cough (usually dry)
+- Sore throat
+- Runny or stuffy nose
+- Muscle or body aches
+- Headaches
+- Fatigue (tiredness)
+- Some people may have vomiting and diarrhea (more common in children)
+
+Transmission:
+- Spreads via respiratory droplets when infected people cough, sneeze or talk
+- May also spread by touching a surface with the virus then touching the mouth, nose, or eyes
+- Contagious 1 day before symptoms appear and up to 5–7 days after
+
+Complications:
+- Pneumonia
+- Bronchitis
+- Sinus and ear infections
+- Worsening of chronic conditions (asthma, heart disease, diabetes)
+- Hospitalization; very rarely, death
+
+High-Risk Groups:
+- People age 65 and older
+- Children under age 5 (especially under 2)
+- Pregnant women
+- People with chronic conditions (asthma, diabetes, heart disease, weakened immune systems)
+
+Treatment:
+- Rest and hydration
+- Antiviral drugs: oseltamivir (Tamiflu), zanamivir (Relenza), baloxavir (Xofluza) — most effective when started within 48 hours
+- Over-the-counter medications to relieve symptoms (pain relievers, decongestants)
+- Antibiotics do NOT treat flu (flu is viral, not bacterial)
+
+Prevention:
+- Annual flu vaccination (most important step)
+- Frequent handwashing
+- Avoiding close contact with sick people
+- Covering coughs and sneezes
+- Staying home when sick
+
+==================================================
+COVID-19
+==================================================
+COVID-19 is an infectious disease caused by the SARS-CoV-2 coronavirus, first identified in December 2019 in Wuhan, China.
+
+Symptoms of COVID-19:
+- Fever or chills
+- Cough (dry cough is common)
+- Shortness of breath or difficulty breathing
+- Fatigue
+- Muscle or body aches
+- Headache
+- New loss of taste or smell (anosmia)
+- Sore throat
+- Congestion or runny nose
+- Nausea or vomiting
+- Diarrhea
+
+Severity Levels:
+- Mild: Manageable symptoms, no need for hospitalization
+- Moderate: Pneumonia, oxygen saturation ≥ 94%
+- Severe: Respiratory rate > 30/min, oxygen saturation < 94%
+- Critical: Respiratory failure, septic shock, multi-organ failure
+
+Emergency Warning Signs (Seek immediate medical attention):
+- Trouble breathing
+- Persistent pain or pressure in the chest
+- New confusion or inability to stay awake
+- Bluish lips or face
+- Inability to keep fluids down
+
+Treatment:
+- Mild cases: Rest, fluids, over-the-counter medications for symptom relief
+- Antiviral medications: nirmatrelvir/ritonavir (Paxlovid), remdesivir (for hospitalized patients)
+- Dexamethasone (corticosteroid) for severe/critical cases
+- Oxygen therapy and mechanical ventilation for critical cases
+
+Prevention:
+- COVID-19 vaccination (primary series and boosters)
+- Wearing masks in high-risk settings
+- Frequent hand hygiene
+- Improving ventilation indoors
+- Staying home when sick
+- Testing when symptomatic or exposed
+
+Long COVID:
+- Some people experience long-term effects (Long COVID / Post-COVID syndrome) lasting weeks or months after infection
+- Common long COVID symptoms: fatigue, brain fog, shortness of breath, joint pain, depression, anxiety
+
+==================================================
+HEART DISEASE
+==================================================
+Heart disease (cardiovascular disease) is the leading cause of death globally. It includes conditions affecting the heart and blood vessels.
+
+Types of Heart Disease:
+- Coronary artery disease (CAD): narrowing or blockage of coronary arteries
+- Heart failure: heart can't pump blood effectively
+- Arrhythmia: irregular heartbeat
+- Heart valve disease
+- Cardiomyopathy: disease of the heart muscle
+- Congenital heart defects
+
+Symptoms of Coronary Artery Disease / Heart Attack:
+- Chest pain, tightness, pressure, or discomfort (angina)
+- Shortness of breath
+- Pain or discomfort in the arm, shoulder, jaw, neck, or back
+- Nausea, lightheadedness, cold sweats
+- Fatigue — especially in women
+
+HEART ATTACK — EMERGENCY SIGNS (Call emergency services immediately):
+- Intense chest pain lasting more than a few minutes or that goes away and comes back
+- Pain or discomfort radiating to the arm, back, neck, jaw, or stomach
+- Shortness of breath with or without chest discomfort
+- Cold sweat, nausea, or lightheadedness
+- Women: may experience atypical symptoms (nausea, back pain, jaw pain, unusual fatigue)
+- Do NOT drive yourself — call 911 or your local emergency number immediately
+
+Risk Factors:
+- High blood pressure
+- High cholesterol
+- Smoking
+- Obesity
+- Diabetes
+- Physical inactivity
+- Unhealthy diet
+- Excessive alcohol consumption
+- Family history of heart disease
+- Age (men ≥45, women ≥55)
+- Stress
+
+Treatment:
+- Lifestyle changes: heart-healthy diet, regular exercise, quit smoking, limit alcohol
+- Medications: statins, ACE inhibitors, beta-blockers, blood thinners, aspirin
+- Procedures: angioplasty and stenting, coronary artery bypass grafting (CABG)
+- Cardiac rehabilitation programs
+
+Prevention:
+- Do not smoke or use tobacco
+- Exercise at least 30–60 minutes per day most days
+- Eat a heart-healthy diet (low saturated fat, sodium, sugar; rich in fruits, vegetables, whole grains)
+- Maintain a healthy weight
+- Control blood pressure, cholesterol, and blood sugar
+- Get regular health screenings
+- Manage stress
+
+==================================================
+STROKE
+==================================================
+A stroke occurs when blood supply to part of the brain is cut off. Without blood, brain cells begin to die within minutes.
+
+Types of Stroke:
+- Ischemic stroke (85% of strokes): Blood clot blocks an artery
+- Hemorrhagic stroke: A blood vessel ruptures and bleeds into the brain
+- Transient Ischemic Attack (TIA / "mini-stroke"): Temporary blockage, symptoms resolve within 24 hours but is a major warning sign
+
+STROKE EMERGENCY — Act FAST:
+- F — Face drooping: Ask the person to smile. Is one side drooping?
+- A — Arm weakness: Ask them to raise both arms. Does one drift down?
+- S — Speech difficulty: Ask them to repeat a phrase. Is it slurred or strange?
+- T — Time to call emergency services! Do not wait. Call 911 immediately.
+
+Other Stroke Symptoms:
+- Sudden numbness or weakness of the face, arm, or leg, especially on one side of the body
+- Sudden confusion, trouble speaking, or understanding speech
+- Sudden trouble seeing in one or both eyes
+- Sudden severe headache with no known cause
+- Sudden trouble walking, dizziness, loss of balance or coordination
+
+Risk Factors:
+- High blood pressure (most important risk factor)
+- Smoking
+- Heart disease and atrial fibrillation
+- Diabetes
+- High cholesterol
+- Obesity
+- Heavy alcohol use
+- Physical inactivity
+- Family history of stroke
+
+Treatment:
+- Ischemic stroke: tPA (tissue plasminogen activator) clot-busting drug if given within 4.5 hours; mechanical thrombectomy up to 24 hours
+- Hemorrhagic stroke: surgery or medications to control bleeding
+- Rehabilitation: physical therapy, speech therapy, occupational therapy
+
+Prevention:
+- Manage blood pressure — most critical
+- Don't smoke; avoid second-hand smoke
+- Maintain a healthy weight
+- Exercise regularly
+- Eat a healthy diet
+- Limit alcohol
+- Control diabetes and cholesterol
+- Take prescribed medications as directed
+
+==================================================
+COMMON COLD
+==================================================
+The common cold is a viral infection of your nose and throat (upper respiratory tract). It's usually harmless, although it might not feel that way.
+
+Causes:
+- Rhinovirus (most common cause — over 200 different viruses can cause a cold)
+- Coronavirus, RSV, and other viruses
+
+Symptoms (usually appear 1–3 days after exposure):
+- Runny or stuffy nose
+- Sore throat
+- Cough
+- Congestion
+- Slight body aches or mild headache
+- Sneezing
+- Low-grade fever (more common in children)
+- Generally feeling unwell (malaise)
+- Nasal discharge changes from clear to yellow or green (doesn't mean bacterial infection)
+
+Progression:
+- Days 1–3: Sore throat, runny nose, sneezing
+- Days 4–5: Congestion, coughing
+- Days 5–7: Improvement; cough may linger
+
+Treatment (No cure — only symptom relief):
+- Rest
+- Stay hydrated (water, warm soups, teas)
+- Over-the-counter medications: decongestants, antihistamines, pain relievers (acetaminophen, ibuprofen)
+- Honey for cough (not for children under 1 year)
+- Saline nasal drops or spray
+- Gargling with warm salt water for sore throat
+- Antibiotics do NOT treat colds (viral, not bacterial)
+
+See a Doctor If:
+- Fever above 38.5°C (101.3°F) in adults
+- Symptoms lasting more than 10 days without improvement
+- Severe or unusual symptoms (chest pain, shortness of breath)
+- Ear pain, persistent sinus pain
+
+Prevention:
+- Wash hands frequently with soap and water for at least 20 seconds
+- Avoid touching eyes, nose, and mouth
+- Avoid close contact with sick people
+- Disinfect frequently touched surfaces
+- Maintain a healthy lifestyle (adequate sleep, exercise, nutrition)
+
+==================================================
+PNEUMONIA
+==================================================
+Pneumonia is an infection that inflames air sacs in one or both lungs. The air sacs may fill with fluid or pus, causing cough with phlegm, fever, chills, and difficulty breathing.
+
+Causes:
+- Bacteria: Streptococcus pneumoniae (most common bacterial cause)
+- Viruses: influenza, COVID-19, RSV
+- Fungi: Pneumocystis jirovecii (in immunocompromised patients)
+- Aspiration of food/liquids
+
+Symptoms:
+- Chest pain when breathing or coughing
+- Confusion or changes in mental awareness (in adults age 65+)
+- Cough producing phlegm (may be rusty or green)
+- Fatigue
+- Fever, sweating and shaking chills
+- Lower than normal body temperature (in older adults)
+- Nausea, vomiting, or diarrhea
+- Shortness of breath
+
+Severity and Risk:
+- Mild ("walking pneumonia") — can be treated at home
+- Severe — requires hospitalization
+- Very high risk for elderly, infants, immunocompromised patients, people with chronic conditions
+
+Treatment:
+- Bacterial pneumonia: antibiotics (amoxicillin, azithromycin)
+- Viral pneumonia: antivirals if applicable; supportive care  
+- Rest, fluids, and fever reducers
+- Hospitalized patients may receive IV antibiotics, oxygen therapy, mechanical ventilation
+
+Prevention:
+- Pneumococcal vaccine (recommended for children under 2 and adults over 65)
+- Annual flu vaccine (flu can lead to pneumonia)
+- COVID-19 vaccine
+- Good hygiene (handwashing)
+- Not smoking
+
+==================================================
+ALLERGIES
+==================================================
+Allergies occur when the immune system reacts to a foreign substance (allergen) that doesn't cause a reaction in most people. The immune system produces antibodies that identify the allergen as harmful, triggering symptoms.
+
+Types of Allergies:
+- Seasonal allergies (hay fever / allergic rhinitis): pollen from trees, grass, weeds
+- Food allergies: peanuts, tree nuts, shellfish, milk, eggs, wheat, soy (most common)
+- Drug allergies: penicillin, aspirin, NSAIDs
+- Insect sting allergies: bee, wasp stings
+- Latex allergy
+- Pet/animal allergies: dander, saliva, urine
+- Mold allergies
+- Skin allergies: contact dermatitis, eczema
+
+Symptoms:
+- Sneezing, runny or blocked nose
+- Red, watery, itchy eyes (allergic conjunctivitis)
+- Itchy skin, hives (urticaria), eczema
+- Swelling (face, lips, tongue, throat)
+- Coughing, wheezing, breathlessness (allergic asthma)
+- Stomach cramps, nausea, vomiting, diarrhea (food allergy)
+
+Anaphylaxis — Severe Allergic Reaction (EMERGENCY):
+- Rapid, severe allergic reaction affecting the whole body
+- Symptoms: sudden drop in blood pressure, throat swelling, difficulty breathing, rapid pulse, dizziness, loss of consciousness
+- CALL EMERGENCY SERVICES IMMEDIATELY
+- Use epinephrine auto-injector (EpiPen) if available
+
+Treatment:
+- Antihistamines (loratadine, cetirizine, diphenhydramine) for mild symptoms
+- Nasal corticosteroid sprays for allergic rhinitis
+- Decongestants
+- Eye drops for allergic conjunctivitis
+- Epinephrine for anaphylaxis
+- Allergen immunotherapy (allergy shots) for long-term desensitization
+
+Management:
+- Identify and avoid triggers
+- Carry emergency medication (EpiPen) if at risk for anaphylaxis
+- Wear medical alert bracelet
+- Inform others about your allergy
+
+==================================================
+DEPRESSION
+==================================================
+Depression (major depressive disorder) is a common and serious medical illness that negatively affects how you feel, the way you think and how you act. It causes feelings of sadness and/or a loss of interest in activities once enjoyed.
+
+Symptoms:
+- Feeling sad or having a depressed mood
+- Loss of interest or pleasure in activities once enjoyed
+- Changes in appetite — weight loss or gain unrelated to dieting
+- Trouble sleeping or sleeping too much
+- Loss of energy or increased fatigue
+- Increase in purposeless physical activity (agitation) or slowed movements and speech
+- Feeling worthless or excessive guilt
+- Difficulty thinking, concentrating, or making decisions
+- Thoughts of death or suicide
+
+Types:
+- Major Depressive Disorder
+- Persistent Depressive Disorder (dysthymia)
+- Postpartum Depression
+- Seasonal Affective Disorder (SAD)
+- Bipolar Disorder (has depressive episodes)
+
+Risk Factors:
+- Personal or family history of depression
+- Major life changes, trauma, or stress
+- Certain medications
+- Chronic medical illness
+- Substance abuse
+
+WARNING — If you or someone you know is having thoughts of suicide or self-harm, please call your local emergency number or go to the nearest emergency room immediately. In the US, call or text 988 (Suicide & Crisis Lifeline).
+
+Treatment:
+- Psychotherapy (Cognitive Behavioral Therapy / CBT is very effective)
+- Antidepressant medications: SSRIs (fluoxetine/Prozac, sertraline/Zoloft), SNRIs (venlafaxine), others
+- Combination of therapy and medication is often most effective
+- Lifestyle: regular exercise, adequate sleep, healthy diet, social support
+- For severe cases: electroconvulsive therapy (ECT), transcranial magnetic stimulation (TMS)
+
+==================================================
+ANXIETY DISORDERS
+==================================================
+Anxiety disorders are the most common mental health disorders. They involve excessive worry, fear, or nervousness that is difficult to control and interferes with daily activities.
+
+Types:
+- Generalized Anxiety Disorder (GAD): excessive, ongoing worry about many aspects of life
+- Panic Disorder: recurrent, unexpected panic attacks
+- Social Anxiety Disorder: intense fear of social situations
+- Specific Phobias
+- Separation Anxiety Disorder
+- Agoraphobia
+
+Symptoms of Anxiety:
+- Feeling nervous, restless or tense
+- Having a sense of impending danger, panic or doom
+- Increased heart rate
+- Breathing rapidly (hyperventilation)
+- Sweating, trembling
+- Feeling weak or tired
+- Trouble concentrating or thinking
+- Trouble sleeping
+- Gastrointestinal problems (nausea, diarrhea)
+- Avoidance of things that trigger anxiety
+
+Panic Attack Symptoms:
+- Sudden intense fear
+- Chest pain, rapid heartbeat
+- Shortness of breath
+- Dizziness, lightheadedness
+- Feeling of unreality or detachment
+- Fear of losing control or dying
+
+Treatment:
+- Psychotherapy: CBT (most effective), exposure therapy
+- Medications: SSRIs, SNRIs, buspirone, benzodiazepines (short-term use)
+- Lifestyle: regular exercise, stress management, limiting caffeine and alcohol, good sleep hygiene
+- Relaxation techniques: deep breathing, mindfulness, meditation, progressive muscle relaxation
+
+==================================================
+FEVER
+==================================================
+Fever is a temporary increase in your body temperature, often due to an illness. Having a fever is a sign your body is fighting an infection or other illness.
+
+Fever Temperature Guidelines:
+- Normal: 98.6°F (37°C) — varies slightly person to person
+- Low-grade fever: 99–100.3°F (37.2–37.9°C)
+- Fever: 100.4°F (38°C) or higher
+- High fever: 103°F (39.4°C) or higher
+- Very high fever: 104°F (40°C) — seek medical attention
+
+Common Causes:
+- Viral infections (flu, cold, COVID-19)
+- Bacterial infections
+- Heat exhaustion
+- Inflammatory conditions
+- Certain medications (drug-induced fever)
+- Vaccinations (low-grade fever is normal for 1–2 days)
+
+Symptoms with Fever:
+- Sweating
+- Chills and shivering
+- Headache
+- Muscle aches
+- Loss of appetite
+- Dehydration
+- General weakness
+
+Treatment:
+- Rest and stay hydrated
+- Over-the-counter fever reducers: acetaminophen (Tylenol), ibuprofen (Advil, Motrin)
+- Aspirin should NOT be given to children under 18 due to risk of Reye's syndrome
+- Cool compresses
+- Dress in lightweight clothing
+- Keep room at a comfortable temperature
+
+Seek Immediate Care If:
+- Fever above 104°F (40°C) in adults
+- Any fever in a baby younger than 3 months
+- Fever with severe headache, stiff neck, rash, confusion, seizures, difficulty breathing
+
+==================================================
+BACK PAIN
+==================================================
+Back pain is one of the most common reasons people seek medical care. It can range from a dull ache to a sudden, sharp sensation that leaves you unable to move.
+
+Types:
+- Acute (short-term, lasts days to weeks)
+- Chronic (lasts more than 12 weeks)
+- Lower back pain (most common)
+- Upper and middle back pain
+
+Common Causes:
+- Muscle or ligament strain (sudden awkward movement, lifting heavy objects)
+- Bulging or ruptured disks (herniated disc)
+- Arthritis
+- Osteoporosis (compression fractures)
+- Skeletal irregularities (scoliosis)
+- Poor posture
+- Sedentary lifestyle
+
+Risk Factors:
+- Age (back pain is more common as you age)
+- Lack of exercise
+- Excess weight
+- Diseases (arthritis, cancer)
+- Improper lifting
+- Psychological conditions (depression, anxiety)
+- Smoking
+
+Symptoms:
+- Aching or stiffness anywhere in the back
+- Sharp, localized pain — especially after lifting or strenuous activity
+- Chronic ache in the middle or lower back
+- Pain that radiates down the leg (sciatica) — may reach the foot
+
+See a Doctor Immediately If Back Pain Is Accompanied By:
+- Bowel or bladder problems (may indicate cauda equina syndrome — emergency)
+- Fever
+- Severe pain that doesn't improve with rest
+- Pain following fall, injury, or trauma
+- Numbness or weakness in the legs
+
+Treatment:
+- Rest (but avoid prolonged bed rest)
+- Hot and cold compresses
+- Over-the-counter pain relievers (ibuprofen, acetaminophen)
+- Physical therapy and stretching exercises
+- Muscle relaxants (prescription)
+- Epidural steroid injections for persistent pain
+- Surgery (rare — for severe structural problems)
+
+Prevention:
+- Exercise regularly (core strengthening)
+- Maintain a healthy weight
+- Use proper posture and body mechanics when lifting
+- Ergonomic workstation setup
+- Quit smoking
+
+==================================================
+OBESITY
+==================================================
+Obesity is a complex disease involving an excessive amount of body fat. It's not just a cosmetic concern — it's a medical problem that increases the risk of many other diseases and health problems.
+
+Measurement:
+- Body Mass Index (BMI) is commonly used to screen for obesity
+  - Normal weight: BMI 18.5–24.9
+  - Overweight: BMI 25–29.9
+  - Obesity: BMI 30 or higher
+  - Severe obesity: BMI 40 or higher
+
+Causes:
+- Consuming more calories than you burn over a long period
+- Physical inactivity
+- Unhealthy diet (processed food, sugar-sweetened beverages)
+- Lack of sleep
+- Genetics and family history
+- Certain medications (steroids, antidepressants)
+- Medical conditions (hypothyroidism, Cushing's syndrome, polycystic ovary syndrome)
+- Age (muscle mass decreases, making it easier to gain weight)
+
+Health Risks of Obesity:
+- Heart disease and stroke
+- Type 2 diabetes
+- High blood pressure
+- High cholesterol
+- Sleep apnea and breathing problems
+- Certain cancers (breast, colon, endometrium, kidney, gallbladder)
+- Osteoarthritis
+- Depression, anxiety, and social isolation
+- Fatty liver disease
+- Gallbladder disease
+
+Treatment:
+- Dietary changes: calorie reduction, healthier food choices, portion control
+- Increased physical activity (150–300 minutes moderate activity per week)
+- Behavior modification and cognitive therapy
+- Medications (prescription only): orlistat, phentermine-topiramate, naltrexone-bupropion, liraglutide
+- Bariatric surgery (for BMI ≥40 or ≥35 with serious health problems): gastric bypass, sleeve gastrectomy
+
+Prevention:
+- Eat more vegetables, fruits, whole grains
+- Avoid processed food and sugary drinks
+- Exercise regularly
+- Monitor weight regularly
+- Reduce screen time and sedentary behavior
+- Adequate sleep (7–9 hours for adults)
+
+==================================================
+HEADACHE AND MIGRAINE
+==================================================
+Headaches are one of the most common health complaints. Most headaches are not dangerous, but some can indicate a serious underlying problem.
+
+Types of Headaches:
+- Tension headache (most common): dull, pressing pain on both sides of the head; often triggered by stress or poor posture
+- Migraine: intense pulsing or throbbing pain, often on one side; can last 4–72 hours; accompanied by nausea, vomiting, sensitivity to light/sound
+- Cluster headache: severe pain around one eye; occurs in clusters (several times per day for weeks/months)
+- Sinus headache: pain around the forehead, cheeks, and nose; associated with sinusitis
+
+Migraine Symptoms:
+- Throbbing or pulsating headache (usually one-sided)
+- Nausea and/or vomiting
+- Sensitivity to light (photophobia) and sound (phonophobia)
+- Visual disturbances / aura (in about 25% of migraineurs): zigzag lines, flashing lights, blind spots
+- Fatigue and weakness
+- Can last 4–72 hours
+
+Migraine Triggers:
+- Hormonal changes in women (menstruation, pregnancy, menopause, birth control pills)
+- Certain foods: aged cheese, salty or processed food, artificial sweeteners
+- Alcohol, especially red wine
+- Caffeine (too much or withdrawal)
+- Stress
+- Sensory stimuli: bright lights, strong smells
+- Sleep disruptions
+- Weather changes
+
+Emergency — See Doctor Immediately if Headache:
+- Comes on suddenly and is extremely severe ("thunderclap headache") — could be subarachnoid hemorrhage
+- Is accompanied by fever, stiff neck, mental confusion, seizures, vision changes, numbness/weakness — could be meningitis or stroke
+- Follows a head injury
+- Gets progressively worse over days
+
+Treatment:
+- Tension headache: OTC pain relievers (ibuprofen, acetaminophen, aspirin), rest, cold/warm compress
+- Migraine (acute): triptans (sumatriptan), NSAIDs, ergotamines, anti-nausea drugs
+- Migraine (preventive): beta-blockers, antidepressants, anticonvulsants, CGRP antagonists (erenumab)
+- Lifestyle: regular sleep schedule, hydration, stress management, avoid triggers
+
+==================================================
+GENERAL PREVENTIVE HEALTH TIPS
+==================================================
+Maintaining good health requires a proactive, preventive approach. Here are evidence-based recommendations for staying healthy:
+
+Physical Activity:
+- Adults should aim for at least 150 minutes of moderate-intensity aerobic exercise per week (e.g., brisk walking, cycling, swimming)
+- Or 75 minutes of vigorous-intensity aerobic activity (e.g., running, aerobics)
+- Add muscle-strengthening activities (resistance training) at least 2 days per week
+- Reduce sedentary time — take breaks from sitting every 30–60 minutes
+
+Nutrition:
+- Eat plenty of fruits and vegetables (aim for 5+ servings per day)
+- Choose whole grains over refined grains
+- Include lean proteins (fish, poultry, legumes, nuts)
+- Limit saturated fats, trans fats, and cholesterol
+- Reduce sodium intake (target less than 2,300mg per day)
+- Limit added sugars and sugar-sweetened beverages
+- Drink plenty of water (at least 8 glasses / 2 liters per day)
+- Limit alcohol (no more than 1 drink/day for women, 2 for men)
+
+Sleep:
+- Adults need 7–9 hours of quality sleep per night
+- Teenagers need 8–10 hours; children need more
+- Maintain a consistent sleep schedule
+- Create a relaxing bedtime routine and sleep environment
+
+Mental Health:
+- Manage stress through meditation, yoga, deep breathing, or therapy
+- Maintain social connections
+- Seek professional help early if experiencing mental health symptoms
+- Practice gratitude and mindfulness
+- Limit social media and screen time
+
+Preventive Screenings:
+- Blood pressure check: at least every 1–2 years (or more frequently if elevated)
+- Cholesterol screening: every 4–6 years starting at age 20
+- Blood glucose: starting at age 35–45, especially with risk factors
+- Colon cancer screening: starting at age 45 (colonoscopy every 10 years, or other tests)
+- Mammogram: women aged 40+ should discuss with doctor; annual or biennial
+- Pap smear/cervical cancer screening: women aged 21–65 every 3–5 years
+- Skin cancer check: annually with a dermatologist, especially if fair-skinned or family history
+- Eye exam: every 1–2 years
+- Dental checkup: every 6 months
+
+Vaccinations (for adults):
+- Influenza: annually
+- Tdap (tetanus, diphtheria, pertussis): every 10 years booster
+- COVID-19: primary series + updated boosters as recommended
+- Shingles (Zoster): adults 50+
+- Pneumococcal: adults 65+ (or younger with certain conditions)
+- HPV: up to age 26 (some 27–45 may benefit — discuss with doctor)
+
+Avoid Harmful Behaviors:
+- Do not smoke; if you smoke, seek help to quit
+- Avoid illicit drugs and misuse of prescription drugs
+- Wear sunscreen (SPF 30+) daily
+- Wear seatbelts and bike helmets
+- Use protective gear in sports and physical labor
+- Practice safe sex
+
+==================================================
+DISCLAIMER
+==================================================
+IMPORTANT: This health information is provided for educational purposes only. It is NOT a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read here.
+
+IN AN EMERGENCY: Call your local emergency number (e.g., 911 in the US) immediately. Do not rely on this chatbot for emergencies.

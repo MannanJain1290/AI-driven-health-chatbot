@@ -1,0 +1,16 @@
+{
+  "name": "health-chatbot-root",
+  "version": "1.0.0",
+  "description": "Root workspace for MERN Stack Health Chatbot",
+  "private": true,
+  "scripts": {
+    "install-all": "npm install --prefix server && npm install --prefix client",
+    "ingest": "npm run ingest --prefix server",
+    "server": "npm run dev --prefix server",
+    "client": "npm run dev --prefix client",
+    "dev": "npx concurrently \"npm run server\" \"npm run client\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
