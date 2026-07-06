@@ -43,7 +43,14 @@ async function start() {
   });
 }
 
-start().catch((err) => {
-  console.error('❌ Server startup failed:', err);
-  process.exit(1);
-});
+// ─── Export or Start Server ──────────────────────────────────────────────────
+if (!process.env.VERCEL) {
+  start().catch((err) => {
+    console.error('❌ Server startup failed:', err);
+    process.exit(1);
+  });
+} else {
+  connectDB().catch((err) => console.error('MongoDB connection error in serverless:', err));
+}
+
+export default app;

@@ -1,0 +1,22 @@
+# Ignore Python legacy files so Vercel does not try to build them
+streamlit_app.py
+chatbot.py
+ingest.py
+requirements.txt
+venv/
+.streamlit/
+feedback.db
+chroma_db/
+
+# Ignore local database states
+server/local_db/
+
+# Ignore standard temp/build files
+node_modules/
+.git/
+.vscode/
+.agents/
+CVS
+.svn
+.hg
+.DS_Store
