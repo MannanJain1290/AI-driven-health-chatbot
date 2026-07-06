@@ -5,8 +5,11 @@ Run once before launching the app: python ingest.py
 
 import os
 import sys
+# pyrefly: ignore [missing-import]
 import chromadb
+# pyrefly: ignore [missing-import]
 from sentence_transformers import SentenceTransformer
+# pyrefly: ignore [missing-import]
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 # ─── Configuration ────────────────────────────────────────────────────────────

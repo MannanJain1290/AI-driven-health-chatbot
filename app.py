@@ -1,27 +1,15 @@
-"""
-app.py — Enhanced Streamlit UI for the AI Health Chatbot.
-
-New features:
-  ✅ Multi-turn conversational memory
-  ✅ PDF document upload & Q&A
-  ✅ Multi-language auto-detect + translate
-  ✅ Symptom tracker (session-based)
-  ✅ Topic category quick-filter chips
-  ✅ Feedback / rating system
-  ✅ Chat export (TXT + PDF)
-  ✅ Text-to-speech (browser JS)
-  ✅ Polished dark UI with animations
-"""
-
+# pyrefly: ignore [missing-import]
 import streamlit as st
 import os
 import time
 import datetime
 import json
 
+# pyrefly: ignore [missing-import]
 from dotenv import load_dotenv
 load_dotenv()
 
+# pyrefly: ignore [missing-import]
 import streamlit.components.v1 as components
 
 # ─── Page Config ──────────────────────────────────────────────────────────────

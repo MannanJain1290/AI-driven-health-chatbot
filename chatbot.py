@@ -9,10 +9,15 @@ import re
 import json
 import sqlite3
 import datetime
+# pyrefly: ignore [missing-import]
 import chromadb
+# pyrefly: ignore [missing-import]
 from sentence_transformers import SentenceTransformer
+# pyrefly: ignore [missing-import]
 from dotenv import load_dotenv
+# pyrefly: ignore [missing-import]
 from langchain_groq import ChatGroq
+# pyrefly: ignore [missing-import]
 from langchain_core.messages import SystemMessage, HumanMessage
 
 load_dotenv()
@@ -119,7 +124,9 @@ def detect_and_translate_to_english(text: str) -> tuple[str, str]:
     Falls back gracefully if deep-translator is not installed.
     """
     try:
+        # pyrefly: ignore [missing-import]
         from deep_translator import GoogleTranslator
+        # pyrefly: ignore [missing-import]
         from langdetect import detect as langdetect_detect
 
         lang = langdetect_detect(text)
@@ -136,6 +143,7 @@ def translate_to_language(text: str, target_lang: str) -> str:
     if target_lang == "en":
         return text
     try:
+        # pyrefly: ignore [missing-import]
         from deep_translator import GoogleTranslator
         return GoogleTranslator(source="en", target=target_lang).translate(text)
     except Exception:
@@ -149,6 +157,7 @@ def ingest_pdf_bytes(pdf_bytes: bytes, filename: str = "upload.pdf") -> int:
     Returns the number of chunks added.
     """
     try:
+        # pyrefly: ignore [missing-import]
         import fitz  # PyMuPDF
     except ImportError:
         raise ImportError("PyMuPDF is required for PDF ingestion. Run: pip install pymupdf")
@@ -273,6 +282,7 @@ def answer_query(
             if turn["role"] == "user":
                 messages.append(HumanMessage(content=turn["content"]))
             else:
+                # pyrefly: ignore [missing-import]
                 from langchain_core.messages import AIMessage
                 messages.append(AIMessage(content=turn["content"]))
 
