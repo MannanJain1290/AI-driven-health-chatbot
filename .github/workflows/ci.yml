@@ -1,0 +1,30 @@
+name: CI — Lint & Check
+
+on:
+  push:
+    branches: [main, dev]
+  pull_request:
+    branches: [main]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install linting tools
+        run: pip install ruff
+
+      - name: Lint with ruff
+        run: ruff check . --ignore E501,E402
+
+      - name: Check .env.example exists
+        run: test -f .env.example
+
+      - name: Check requirements.txt exists
+        run: test -f requirements.txt

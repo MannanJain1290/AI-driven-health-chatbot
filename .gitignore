@@ -1,0 +1,15 @@
+# Environment
+.env
+
+# Auto-generated
+__pycache__/
+*.pyc
+chroma_db/
+feedback.db
+
+# Virtual environment
+venv/
+.venv/
+
+# OS
+.DS_Store
